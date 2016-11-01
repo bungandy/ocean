@@ -362,3 +362,13 @@
   icon: https://raw.githubusercontent.com/WhistleMaster/tingbot-apps/master/Dice.tingapp/icon.png
   github_url: https://github.com/WhistleMaster/tingbot-apps
   zip_url: https://github.com/WhistleMaster/tingbot-apps/files/519436/Dice.tingapp-1.0.0.zip
+  
+- name: Ping Network
+  creator: Bungandy
+  version: v0.1
+  modified_date: 1 Nov 2016
+  background_color: "2ecc71"
+  icon: https://raw.githubusercontent.com/bungandy/tingbot-ping/master/Ping.tingapp/icon.png
+  screenshot_url: https://raw.githubusercontent.com/bungandy/tingbot-ping/master/screenshot.png
+  github_url: https://github.com/bungandy/tingbot-ping
+  zip_url: https://github.com/bungandy/tingbot-ping/archive/v0.1.zip
